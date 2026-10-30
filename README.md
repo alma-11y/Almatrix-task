@@ -1,0 +1,4 @@
+AlmaTrix-Task Management Web App is a responsive task management web app that help users organize their daily activities, manage responsibilities, and track their productivity in one place, the application provides simple dashboard where users can create, edit, delete, categorize, prioritize and monitor their tasks
+Technologies used are HTML5, CSS3, JAVASCRIPT(ES6+) and Browser local storage
+AlmaTrix was developed as part of my internship learning experience to strengthen my frontend development skills and gain a practical understanding of building interactive web app
+what i learned : building a structured and responsive user interface, working with javascript functions and DOM manipulation, organizing code into separate files improving user experience through interactive features and all other things.
