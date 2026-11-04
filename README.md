@@ -1,4 +1,7 @@
-AlmaTrix-Task Management Web App is a responsive task management web app that help users organize their daily activities, manage responsibilities, and track their productivity in one place, the application provides simple dashboard where users can create, edit, delete, categorize, prioritize and monitor their tasks
-Technologies used are HTML5, CSS3, JAVASCRIPT(ES6+) and Browser local storage
-AlmaTrix was developed as part of my internship learning experience to strengthen my frontend development skills and gain a practical understanding of building interactive web app
+AlmaTrix-Task Management Web App is a simple and responsive task management web app that help users organize their daily activities, manage responsibilities, and track their productivity in one place, the application provides simple dashboard where users can create, edit, delete, categorize, prioritize and monitor their tasks.
+we know how managing multiple responsibilities can sometimes become challenging,Almatrix provides a simple platform where users can easily manage their responsibilities
+Technologies used are HTML5- for the website structure, CSS3- for styling and responsive layout, JAVASCRIPT(ES6+)-for functionality and interactivity and Browser local storage- for saving task data in the browser.
+AlmaTrix was developed as part of my internship learning (DATHEON internship program) experience to strengthen my frontend development skills and gain a practical understanding of building interactive web app
 what i learned : building a structured and responsive user interface, working with javascript functions and DOM manipulation, organizing code into separate files improving user experience through interactive features and all other things.
+Building this took me a while to build, understand what i was doing and time, somethings still feels like a magic but i will continue to learn and build to try and understand more about what i am building and to be able to understand what happens and how it happened and why it happened.
+any correction is accepted.
